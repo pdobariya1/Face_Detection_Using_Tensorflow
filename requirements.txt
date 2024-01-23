@@ -1,0 +1,5 @@
+labelme
+tensorflow
+albumentations
+opencv-python
+matplotlib
